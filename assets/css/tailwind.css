@@ -1213,11 +1213,6 @@ video {
   background-color: rgb(175 178 181 / var(--tw-bg-opacity));
 }
 
-.bg-sky-700{
-  --tw-bg-opacity: 1;
-  background-color: rgb(3 105 161 / var(--tw-bg-opacity));
-}
-
 .bg-secondary{
   --tw-bg-opacity: 1;
   background-color: rgb(19 194 150 / var(--tw-bg-opacity));
@@ -1461,10 +1456,6 @@ video {
 
 .pl-\[62px\]{
   padding-left: 62px;
-}
-
-.pt-2{
-  padding-top: 0.5rem;
 }
 
 .text-left{
